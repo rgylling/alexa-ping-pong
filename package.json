@@ -1,0 +1,24 @@
+{
+  "name": "alexa-ping-pong",
+  "version": "1.0.0",
+  "description": "An Alexa ping pong score keeper",
+  "main": "index.js",
+  "dependencies": {
+    "aws-sdk": "^2.45.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "keywords": [
+    "ping",
+    "pong",
+    "score",
+    "keeper"
+  ],
+  "author": "",
+  "license": "MIT",
+}

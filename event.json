@@ -1,0 +1,24 @@
+{
+  "session": {
+    "sessionId": "SessionId.4faf5041-988d-4ac0-8d74-952f008cf7c0",
+    "application": {
+      "applicationId": "amzn1.ask.skill.723a7416-db41-4cfa-8756-0e924a97ea9d"
+    },
+    "attributes": {},
+    "user": {
+      "userId": "amzn1.ask.account.AFGNGGJ4R25AV2MYGPVEL25BQ5JWD4EW4P5F3GSUT5XOAZ2RBWDFU2JJ3XH3B2YDXEIUVHHERNGMYFM64CFQI5V6XWXAMJXKEOYCQQWORWXLXKGFQXMN2K76ZGFIK4H7JWD5ZENXDGXJVK5JPV6I35PRX6ITKB3XTMVSFUR7ULESJIJCOXYJKBDDWWBLYUC7SCP2RMVCXWH5L2A"
+    },
+    "new": true
+  },
+  "request": {
+    "type": "IntentRequest",
+    "requestId": "EdwRequestId.d3bf9d20-b948-497a-9bac-1ac0e301e5ab",
+    "locale": "en-US",
+    "timestamp": "2017-04-21T20:14:00Z",
+    "intent": {
+      "name": "EndGame",
+      "slots": {}
+    }
+  },
+  "version": "1.0"
+}
